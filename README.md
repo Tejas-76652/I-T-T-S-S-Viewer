@@ -21,16 +21,16 @@ Link to language data files: Tesseract-OCR Language Data:
 2. Steps to Add Multiple OCR Languages in Your Project
 Follow these steps to add multiple languages to your OCR functionality:
 
-* Download the Required Language Files
+* Download the Required Language Files:
 
-** Go to the Tesseract language data files page.
+ Go to the Tesseract language data files page.
 Download the .traineddata files for the languages you need. For example, if you want to add Spanish (spa), Japanese (jpn), Hindi (hin), and Malayalam (mal), download the respective .traineddata files.
 
-* Place Language Files in the Tesseract Directory
+* Place Language Files in the Tesseract Directory:
 
 Locate your Tesseract installation directory (e.g., C:\Program Files\Tesseract-OCR\tessdata).
 Place the downloaded .traineddata files inside the tessdata folder.
 
-* Update the OCR Code to Include Multiple Languages
+* Update the OCR Code to Include Multiple Languages:
 
 In your Python OCR code, you can update the language parameter to include multiple languages using the lang parameter.

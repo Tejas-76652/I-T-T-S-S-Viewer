@@ -7,4 +7,4 @@ Key features include:
 * Translation: Translates extracted text into numerous languages using Google Translate.
 * Summarization: Summarizes long texts into concise, readable summaries using advanced transformer-based models.
 * User Interface: A simple and interactive Tkinter-based GUI allows users to upload files, translate, and summarize text seamlessly.
-* This tool is ideal for users working with multilingual documents, providing a unified platform for text processing.
+This tool is ideal for users working with multilingual documents, providing a unified platform for text processing.

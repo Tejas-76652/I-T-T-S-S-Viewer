@@ -23,7 +23,7 @@ Follow these steps to add multiple languages to your OCR functionality:
 
 * Download the Required Language Files
 
-Go to the Tesseract language data files page.
+** Go to the Tesseract language data files page.
 Download the .traineddata files for the languages you need. For example, if you want to add Spanish (spa), Japanese (jpn), Hindi (hin), and Malayalam (mal), download the respective .traineddata files.
 
 * Place Language Files in the Tesseract Directory

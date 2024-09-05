@@ -10,6 +10,11 @@ Key features include:
 
 This tool is ideal for users working with multilingual documents, providing a unified platform for text processing.
 
+# How to run the code:
+1. create environment.
+
+
+
 # Steps to use Multi-lang Support:
 Here are the steps:
 

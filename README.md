@@ -3,8 +3,8 @@ This project is a comprehensive tool designed for text extraction, translation, 
 
 Key features include:
 
-OCR: Supports text extraction from images and PDFs in multiple languages.
-Translation: Translates extracted text into numerous languages using Google Translate.
-Summarization: Summarizes long texts into concise, readable summaries using advanced transformer-based models.
-User Interface: A simple and interactive Tkinter-based GUI allows users to upload files, translate, and summarize text seamlessly.
-This tool is ideal for users working with multilingual documents, providing a unified platform for text processing.
+* OCR: Supports text extraction from images and PDFs in multiple languages.
+* Translation: Translates extracted text into numerous languages using Google Translate.
+* Summarization: Summarizes long texts into concise, readable summaries using advanced transformer-based models.
+* User Interface: A simple and interactive Tkinter-based GUI allows users to upload files, translate, and summarize text seamlessly.
+* This tool is ideal for users working with multilingual documents, providing a unified platform for text processing.

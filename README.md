@@ -12,6 +12,12 @@ This tool is ideal for users working with multilingual documents, providing a un
 
 # How to run the code:
 1. create environment.
+2. use pip install -r requirements.txt
+3. Install OCR Software(already in a folder), Copy the OCR path and paste it in upload function(in mypackage).
+4. Select the summarization model from mypackage i.e tensorflow or pytorch and update in finale.
+5. run all files in mypackage and then run the main project i.e finale.py
+6. files in Test are experiments and that ITTS file is base model.
+
 
 
 
